@@ -1,0 +1,4 @@
+Purpose: Tracks gameplay related player values
+
+
+Output: Sets and references player values such as score, missile count, shield and hull integrity

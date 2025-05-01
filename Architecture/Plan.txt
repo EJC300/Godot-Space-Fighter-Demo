@@ -1,0 +1,39 @@
+Components of the Space Fighter Demo.
+
+
+Since Godot uses nodes I won't be planning the individual code just the objective and output.
+
+
+The components are divided into distinct types:
+
+Game Systems
+
+Game Input
+
+Gameplay 
+
+Game UI
+
+
+Game Systems:
+ Debug
+ Game Manager
+ Audio Manager
+
+Game Input:
+  Player Input Manager
+  
+Gameplay:
+ Spaceship Controller
+ Player Spaceship
+ AI Spaceship 
+ Weapons
+ Game Flow
+ 
+Game UI:
+Main Menu
+Pause Menu
+ 
+ 
+
+  

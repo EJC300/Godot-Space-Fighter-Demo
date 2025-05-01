@@ -1,0 +1,51 @@
+
+Work steps via (n)
+
+(1)GAME:
+1 Debug Systems - Done! - Debug Camera then Debug Draw line and Draw Sphere - scrapped 
+2 Game Manager - Done!
+3 Game Can Exit - Done!
+
+(3)WEAPONS
+1 Blasters - Done!
+2 Missiles
+3 Damage
+
+(4)PLAYER
+1 Player Spaceship Controls - Done!
+2 Player Can be Damaged 
+3 Player can have shields damaged or recharged
+4 Player Can die
+5 Player Can fire Weapons - Done!
+
+
+
+(5)AI - working on it
+1 Bot can follow target 
+2 Bot can evade target
+3 Bot can wander
+4 Bot can avoid obstacles using ray casts
+5 Bot can die
+6 Bot Can fire Weapons
+7 Bot can have shields drained/recharged
+8 Bot can be damaged 
+
+(6)MENU
+ 1 Main Menu - Done!
+ 2 Exit Button- Done!
+ 3 Play Button- Done!
+
+(2)PAUSE
+ 1 Close Button - Done!
+ 2 Unpause and pause time - Done!
+ 3 Exit to main menu scene - Done! 
+ Notes-> Transition needs fixing
+
+(7)Polish:
+Sound Manager 
+Blaster Sounds
+Explosions
+Particles
+Shaders?
+
+

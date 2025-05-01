@@ -1,0 +1,13 @@
+This is a space fighter game in the vein of wing commander. It is not a full game it is a prototype developed for the intention of learning Godot.
+
+I plan on using placeholder assets and limited effects but I want to convey pure gameplay. The demo will have a start menu and the ability to exit the game.
+
+At the end of this project I have learned to do the following:
+
+Setup a main menu
+
+Utilize the autoload feature
+
+Get used to Godot's architecture
+
+have fully functional prototype in Godot.

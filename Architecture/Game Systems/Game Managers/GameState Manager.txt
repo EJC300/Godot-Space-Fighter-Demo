@@ -1,0 +1,3 @@
+Purpose: Controls the State of the Game
+
+Output: Sets whether the following states are loaded -> Menu, Pause, Playing, and Exit

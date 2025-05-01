@@ -1,0 +1,3 @@
+Purpose: Display a pause dialogue and pause the game
+
+Output: Pauses the game

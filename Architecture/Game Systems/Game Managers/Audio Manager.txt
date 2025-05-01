@@ -1,0 +1,3 @@
+Purpose: Controls Audio Sources
+
+Output: References audio sources in the scene, manages audio sources such as playing or stopping or setting volume etc

@@ -1,0 +1,3 @@
+Purpose: A simple menu that enables exit or play state
+
+Output: Simple Main Menu

@@ -1,0 +1,3 @@
+Purpose: Weapons such as blasters and missiles
+
+Output: Blaster bullets , blasters and missiles as well as damage components

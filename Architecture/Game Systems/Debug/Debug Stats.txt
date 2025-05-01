@@ -1,0 +1,10 @@
+Purpose: Displays Game related system stats
+
+Output:
+FRAME RATE
+ELAPSED TIME
+DELTA
+DRAWCALLS
+PLAYER POSITION 
+NUMBER OF INSTANCED NODES(Get from a function that is called on spawn)
+NUMBER OF BOTS

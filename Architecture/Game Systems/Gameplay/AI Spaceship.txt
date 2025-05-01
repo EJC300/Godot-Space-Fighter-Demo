@@ -1,0 +1,16 @@
+Purpose: Controls a simple fighter bot
+
+Output: Implements a basic ai using nodes such as the following:
+Throttle for Thrust
+Pitch Yaw and Roll
+Weapons such as blasters or missiles
+
+Collision Avoidance
+
+Pursue
+
+Avoid
+
+Evade
+
+Die 

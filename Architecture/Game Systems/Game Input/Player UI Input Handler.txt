@@ -1,0 +1,3 @@
+Purpose: Handles maybe all UI Input such as keys for selecting a menu item
+
+Output: Unknown?

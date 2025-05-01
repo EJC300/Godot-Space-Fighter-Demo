@@ -1,0 +1,3 @@
+Purpose: Player Controlled Spaceship
+
+Output: A collection of nodes that controls the player spaceship such as throttle for thrust, weapons such as blasters or missiles, and lastly pitch, yaw and roll

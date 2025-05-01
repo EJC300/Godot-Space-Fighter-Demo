@@ -1,0 +1,3 @@
+Purpose: Manages The Game
+
+Output: Controls game flow such as pause , exit and resume. Win condition is also tracked.

@@ -1,0 +1,3 @@
+Purpose: Encapsulates all player controls in a single manager autoload
+
+Output: Gets input from player controls and returns values of said controls such as the mouse motion 
